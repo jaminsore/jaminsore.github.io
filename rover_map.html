@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Leaflet Quick Start Guide Example</title>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=1024, user-scalable=no">
+    
+    <style>
+    html { height: 100%}
+    body {height: 100%; margin: 0; padding: 0;}
+    #map {height : 100% }
+    </style>   
+
+
+    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
+    <script type="text/javascript" src="http://code.jquery.com/jquery.min.js"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.js"></script>
+  
+ 
+</head>
+<body>
+    <div id="map"></div>
+
+    <script>
+    
+    var map = L.map('map');
+    
+    L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
+        attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
+        maxZoom: 18,
+        id: 'jaminsore.9237806c',
+        accessToken: 'pk.eyJ1IjoiamFtaW5zb3JlIiwiYSI6ImI1MzRlYWUxNmZmYzVmOGU5NzhkM2U3ZjFkYWI0ZjE5In0.nJl2m0FmsHrMQmFTBnIyAA'
+    }).addTo(map);
+    
+    var myStyle = {
+    	    "color": "#FF211f",
+    	    "weight": 5.3,
+    	    "opacity": 0.25
+    	};
+    
+    var geojsonMarkerOptions = {
+    	    radius: 8,
+    	    fillColor: "#ff7800",
+    	    color: "#000",
+    	    weight: 1,
+    	    opacity: 1,
+    	    fillOpacity: 0.8
+    	};
+    
+    $.ajax({
+    	dataType: "json",
+    	url: "JustTest.geojson",
+    	success: function(data){
+    		rover_data = L.geoJson(data, {
+    			
+    			style : myStyle,
+    			
+    			onEachFeature: function(feature, layer){
+    				if(feature.properties.label){
+    				    layer.bindPopup(feature.properties.label)
+    				}
+    			},
+    			
+    			pointToLayer: function (feature, latlng){
+    				return L.circleMarker(latlng, geojsonMarkerOptions);
+    			}
+    		}).addTo(map)
+    	},
+        complete: function(){
+        	map.fitBounds(rover_data.getBounds())
+        }
+    });
+
+   
+    </script>
+</body>
+</html>

@@ -1,8 +1,6 @@
 {
   "features": [
     {
-      "properties": {},
-      "type": "Feature",
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -589,2490 +587,2513 @@
           [
             -79.96423,
             -3.27032
+          ],
+          [
+            -79.6113,
+            -3.6922099999999998
           ]
         ]
-      }
-    },
-    {
-      "properties": {
-        "Date": "Fri Jun 14 15:57:11 2013",
-        "Color": "#00FF00",
-        "Radius": 12,
-        "Lon": "-91.78",
-        "Lat": "46.94"
       },
       "type": "Feature",
+      "properties": {}
+    },
+    {
       "geometry": {
         "type": "Point",
         "coordinates": [
           -91.78143,
           46.944829999999996
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 12,
+        "Date": "Fri Jun 14 15:57:11 2013",
+        "Color": "#00FF00",
+        "Lat": "46.94",
+        "Lon": "-91.78"
       }
     },
     {
-      "properties": {
-        "Date": "Sat Jun 22 13:40:11 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-91.67",
-        "Lat": "47.01"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -91.66691999999999,
           47.0117
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Sat Jun 22 13:40:11 2013",
+        "Color": "#FF7800",
+        "Lat": "47.01",
+        "Lon": "-91.67"
       }
     },
     {
-      "properties": {
-        "Date": "Tue Jun 25 12:03:18 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-90.90",
-        "Lat": "46.99"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -90.89832,
           46.98611
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Tue Jun 25 12:03:18 2013",
+        "Color": "#FF7800",
+        "Lat": "46.99",
+        "Lon": "-90.90"
       }
     },
     {
-      "properties": {
-        "Date": "Wed Jun 26 14:05:39 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-90.80",
-        "Lat": "46.78"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -90.79626,
           46.78376
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Wed Jun 26 14:05:39 2013",
+        "Color": "#FF7800",
+        "Lat": "46.78",
+        "Lon": "-90.80"
       }
     },
     {
-      "properties": {
-        "Date": "Thu Jun 27 17:20:26 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-90.29",
-        "Lat": "46.94"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -90.28655,
           46.94119
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Thu Jun 27 17:20:26 2013",
+        "Color": "#FF7800",
+        "Lat": "46.94",
+        "Lon": "-90.29"
       }
     },
     {
-      "properties": {
-        "Date": "Fri Jun 28 15:48:10 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-88.62",
-        "Lat": "47.21"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -88.61806999999999,
           47.209070000000004
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Fri Jun 28 15:48:10 2013",
+        "Color": "#FF7800",
+        "Lat": "47.21",
+        "Lon": "-88.62"
       }
     },
     {
-      "properties": {
-        "Date": "Sat Jun 29 17:06:09 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-88.43",
-        "Lat": "46.98"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -88.43285999999999,
           46.97576
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Sat Jun 29 17:06:09 2013",
+        "Color": "#FF7800",
+        "Lat": "46.98",
+        "Lon": "-88.43"
       }
     },
     {
-      "properties": {
-        "Date": "Sun Jun 30 17:07:11 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-87.54",
-        "Lat": "46.70"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -87.54061999999999,
           46.701809999999995
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Sun Jun 30 17:07:11 2013",
+        "Color": "#FF7800",
+        "Lat": "46.70",
+        "Lon": "-87.54"
       }
     },
     {
-      "properties": {
-        "Date": "Mon Jul  1 12:30:39 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-87.39",
-        "Lat": "46.54"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -87.38974,
           46.5429
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Mon Jul  1 12:30:39 2013",
+        "Color": "#FF7800",
+        "Lat": "46.54",
+        "Lon": "-87.39"
       }
     },
     {
-      "properties": {
-        "Date": "Tue Jul  2 17:17:56 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-85.70",
-        "Lat": "46.72"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -85.69913000000001,
           46.7167
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Tue Jul  2 17:17:56 2013",
+        "Color": "#FF7800",
+        "Lat": "46.72",
+        "Lon": "-85.70"
       }
     },
     {
-      "properties": {
-        "Date": "Wed Jul  3 07:14:28 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-84.34",
-        "Lat": "46.50"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -84.33745,
           46.49982
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Wed Jul  3 07:14:28 2013",
+        "Color": "#FF7800",
+        "Lat": "46.50",
+        "Lon": "-84.34"
       }
     },
     {
-      "properties": {
-        "Date": "Thu Jul  4 14:34:03 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-84.01",
-        "Lat": "46.09"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -84.0126,
           46.08789
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Thu Jul  4 14:34:03 2013",
+        "Color": "#FF7800",
+        "Lat": "46.09",
+        "Lon": "-84.01"
       }
     },
     {
-      "properties": {
-        "Date": "Fri Jul  5 18:13:59 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-83.59",
-        "Lat": "45.36"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -83.59071999999999,
           45.35881
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Fri Jul  5 18:13:59 2013",
+        "Color": "#FF7800",
+        "Lat": "45.36",
+        "Lon": "-83.59"
       }
     },
     {
-      "properties": {
-        "Date": "Sat Jul  6 18:16:27 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-83.34",
-        "Lat": "45.20"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -83.33521,
           45.199090000000005
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Sat Jul  6 18:16:27 2013",
+        "Color": "#FF7800",
+        "Lat": "45.20",
+        "Lon": "-83.34"
       }
     },
     {
-      "properties": {
-        "Date": "Sun Jul  7 15:38:29 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-83.43",
-        "Lat": "45.06"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -83.42715,
           45.05896
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Sun Jul  7 15:38:29 2013",
+        "Color": "#FF7800",
+        "Lat": "45.06",
+        "Lon": "-83.43"
       }
     },
     {
-      "properties": {
-        "Date": "Tue Jul  9 17:41:40 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-82.86",
-        "Lat": "44.26"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -82.86072,
           44.25639
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Tue Jul  9 17:41:40 2013",
+        "Color": "#FF7800",
+        "Lat": "44.26",
+        "Lon": "-82.86"
       }
     },
     {
-      "properties": {
-        "Date": "Wed Jul 10 07:22:35 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-82.54",
-        "Lat": "43.43"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -82.53784,
           43.43125
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Wed Jul 10 07:22:35 2013",
+        "Color": "#FF7800",
+        "Lat": "43.43",
+        "Lon": "-82.54"
       }
     },
     {
-      "properties": {
-        "Date": "Thu Jul 11 19:07:27 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-83.11",
-        "Lat": "42.27"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -83.11139,
           42.27028
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Thu Jul 11 19:07:27 2013",
+        "Color": "#FF7800",
+        "Lat": "42.27",
+        "Lon": "-83.11"
       }
     },
     {
-      "properties": {
-        "Date": "Fri Jul 12 17:10:34 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-82.82",
-        "Lat": "41.68"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -82.81949,
           41.6795
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Fri Jul 12 17:10:34 2013",
+        "Color": "#FF7800",
+        "Lat": "41.68",
+        "Lon": "-82.82"
       }
     },
     {
-      "properties": {
-        "Date": "Sat Jul 13 18:32:01 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-82.51",
-        "Lat": "41.54"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -82.51212,
           41.543459999999996
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Sat Jul 13 18:32:01 2013",
+        "Color": "#FF7800",
+        "Lat": "41.54",
+        "Lon": "-82.51"
       }
     },
     {
-      "properties": {
-        "Date": "Sun Jul 14 21:58:49 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-81.13",
-        "Lat": "41.88"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -81.13486,
           41.8809
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Sun Jul 14 21:58:49 2013",
+        "Color": "#FF7800",
+        "Lat": "41.88",
+        "Lon": "-81.13"
       }
     },
     {
-      "properties": {
-        "Date": "Mon Jul 15 21:54:33 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-80.12",
-        "Lat": "42.16"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -80.11783,
           42.15625
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Mon Jul 15 21:54:33 2013",
+        "Color": "#FF7800",
+        "Lat": "42.16",
+        "Lon": "-80.12"
       }
     },
     {
-      "properties": {
-        "Date": "Tue Jul 16 20:27:32 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-79.71",
-        "Lat": "42.32"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -79.71207,
           42.3224
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Tue Jul 16 20:27:32 2013",
+        "Color": "#FF7800",
+        "Lat": "42.32",
+        "Lon": "-79.71"
       }
     },
     {
-      "properties": {
-        "Date": "Wed Jul 17 21:29:40 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-78.88",
-        "Lat": "42.87"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -78.88146,
           42.86997
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Wed Jul 17 21:29:40 2013",
+        "Color": "#FF7800",
+        "Lat": "42.87",
+        "Lon": "-78.88"
       }
     },
     {
-      "properties": {
-        "Date": "Thu Jul 18 13:37:10 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-78.88",
-        "Lat": "42.88"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -78.87979,
           42.87682
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Thu Jul 18 13:37:10 2013",
+        "Color": "#FF7800",
+        "Lat": "42.88",
+        "Lon": "-78.88"
       }
     },
     {
-      "properties": {
-        "Date": "Tue Jul 23 22:33:11 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-79.08",
-        "Lat": "42.85"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -79.07639,
           42.84851
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Tue Jul 23 22:33:11 2013",
+        "Color": "#FF7800",
+        "Lat": "42.85",
+        "Lon": "-79.08"
       }
     },
     {
-      "properties": {
-        "Date": "Wed Jul 24 18:14:36 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-79.25",
-        "Lat": "42.89"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -79.24945,
           42.885220000000004
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Wed Jul 24 18:14:36 2013",
+        "Color": "#FF7800",
+        "Lat": "42.89",
+        "Lon": "-79.25"
       }
     },
     {
-      "properties": {
-        "Date": "Thu Jul 25 21:16:03 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-79.06",
-        "Lat": "43.28"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -79.06376999999999,
           43.27637
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Thu Jul 25 21:16:03 2013",
+        "Color": "#FF7800",
+        "Lat": "43.28",
+        "Lon": "-79.06"
       }
     },
     {
-      "properties": {
-        "Date": "Fri Jul 26 21:14:10 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-77.95",
-        "Lat": "43.37"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -77.95461999999999,
           43.36911
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Fri Jul 26 21:14:10 2013",
+        "Color": "#FF7800",
+        "Lat": "43.37",
+        "Lon": "-77.95"
       }
     },
     {
-      "properties": {
-        "Date": "Sat Jul 27 22:31:50 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-77.36",
-        "Lat": "43.28"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -77.36374,
           43.28094
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Sat Jul 27 22:31:50 2013",
+        "Color": "#FF7800",
+        "Lat": "43.28",
+        "Lon": "-77.36"
       }
     },
     {
-      "properties": {
-        "Date": "Sun Jul 28 21:27:32 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-76.36",
-        "Lat": "43.53"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -76.36395,
           43.52518
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Sun Jul 28 21:27:32 2013",
+        "Color": "#FF7800",
+        "Lat": "43.53",
+        "Lon": "-76.36"
       }
     },
     {
-      "properties": {
-        "Date": "Mon Jul 29 22:21:31 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-76.33",
-        "Lat": "44.13"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -76.33199,
           44.13043
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Mon Jul 29 22:21:31 2013",
+        "Color": "#FF7800",
+        "Lat": "44.13",
+        "Lon": "-76.33"
       }
     },
     {
-      "properties": {
-        "Date": "Tue Jul 30 20:36:40 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-75.79",
-        "Lat": "44.47"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -75.79095,
           44.46569
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Tue Jul 30 20:36:40 2013",
+        "Color": "#FF7800",
+        "Lat": "44.47",
+        "Lon": "-75.79"
       }
     },
     {
-      "properties": {
-        "Date": "Wed Jul 31 21:42:40 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-74.71",
-        "Lat": "45.00"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -74.70510999999999,
           45.00457
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Wed Jul 31 21:42:40 2013",
+        "Color": "#FF7800",
+        "Lat": "45.00",
+        "Lon": "-74.71"
       }
     },
     {
-      "properties": {
-        "Date": "Thu Aug  1 21:07:01 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-74.18",
-        "Lat": "45.22"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -74.1803,
           45.22036
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Thu Aug  1 21:07:01 2013",
+        "Color": "#FF7800",
+        "Lat": "45.22",
+        "Lon": "-74.18"
       }
     },
     {
-      "properties": {
-        "Date": "Fri Aug  2 22:51:24 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-73.52",
-        "Lat": "45.54"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -73.52023,
           45.53835
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Fri Aug  2 22:51:24 2013",
+        "Color": "#FF7800",
+        "Lat": "45.54",
+        "Lon": "-73.52"
       }
     },
     {
-      "properties": {
-        "Date": "Sun Aug  4 00:02:41 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-73.52",
-        "Lat": "45.54"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -73.51720999999999,
           45.5402
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Sun Aug  4 00:02:41 2013",
+        "Color": "#FF7800",
+        "Lat": "45.54",
+        "Lon": "-73.52"
       }
     },
     {
-      "properties": {
-        "Date": "Mon Aug  5 21:39:04 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-72.53",
-        "Lat": "46.35"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -72.52631,
           46.349540000000005
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Mon Aug  5 21:39:04 2013",
+        "Color": "#FF7800",
+        "Lat": "46.35",
+        "Lon": "-72.53"
       }
     },
     {
-      "properties": {
-        "Date": "Tue Aug  6 20:11:12 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-71.52",
-        "Lat": "46.69"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -71.51648,
           46.69233
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Tue Aug  6 20:11:12 2013",
+        "Color": "#FF7800",
+        "Lat": "46.69",
+        "Lon": "-71.52"
       }
     },
     {
-      "properties": {
-        "Date": "Wed Aug  7 15:09:10 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-71.20",
-        "Lat": "46.82"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -71.20184,
           46.819559999999996
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Wed Aug  7 15:09:10 2013",
+        "Color": "#FF7800",
+        "Lat": "46.82",
+        "Lon": "-71.20"
       }
     },
     {
-      "properties": {
-        "Date": "Wed Aug  7 21:48:32 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-70.78",
-        "Lat": "47.03"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -70.77620999999999,
           47.032759999999996
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Wed Aug  7 21:48:32 2013",
+        "Color": "#FF7800",
+        "Lat": "47.03",
+        "Lon": "-70.78"
       }
     },
     {
-      "properties": {
-        "Date": "Thu Aug  8 21:13:33 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-69.50",
-        "Lat": "47.97"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -69.5025,
           47.97035
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Thu Aug  8 21:13:33 2013",
+        "Color": "#FF7800",
+        "Lat": "47.97",
+        "Lon": "-69.50"
       }
     },
     {
-      "properties": {
-        "Date": "Fri Aug  9 20:07:49 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-68.51",
-        "Lat": "48.48"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -68.51420999999999,
           48.48475
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Fri Aug  9 20:07:49 2013",
+        "Color": "#FF7800",
+        "Lat": "48.48",
+        "Lon": "-68.51"
       }
     },
     {
-      "properties": {
-        "Date": "Mon Aug 12 21:27:32 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-64.47",
-        "Lat": "48.83"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -64.46956999999999,
           48.82739
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Mon Aug 12 21:27:32 2013",
+        "Color": "#FF7800",
+        "Lat": "48.83",
+        "Lon": "-64.47"
       }
     },
     {
-      "properties": {
-        "Date": "Wed Aug 14 19:58:56 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-64.20",
-        "Lat": "48.62"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -64.20468000000001,
           48.62061
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Wed Aug 14 19:58:56 2013",
+        "Color": "#FF7800",
+        "Lat": "48.62",
+        "Lon": "-64.20"
       }
     },
     {
-      "properties": {
-        "Date": "Fri Aug 16 05:45:58 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-61.96",
-        "Lat": "47.37"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -61.959959999999995,
           47.370020000000004
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Fri Aug 16 05:45:58 2013",
+        "Color": "#FF7800",
+        "Lat": "47.37",
+        "Lon": "-61.96"
       }
     },
     {
-      "properties": {
-        "Date": "Fri Aug 16 20:06:09 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-61.87",
-        "Lat": "47.36"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -61.869780000000006,
           47.35833
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Fri Aug 16 20:06:09 2013",
+        "Color": "#FF7800",
+        "Lat": "47.36",
+        "Lon": "-61.87"
       }
     },
     {
-      "properties": {
-        "Date": "Sun Aug 18 13:14:41 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-62.25",
-        "Lat": "46.35"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -62.24823000000001,
           46.34752
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Sun Aug 18 13:14:41 2013",
+        "Color": "#FF7800",
+        "Lat": "46.35",
+        "Lon": "-62.25"
       }
     },
     {
-      "properties": {
-        "Date": "Mon Aug 19 18:39:33 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-61.92",
-        "Lat": "45.86"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -61.91876,
           45.8584
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Mon Aug 19 18:39:33 2013",
+        "Color": "#FF7800",
+        "Lat": "45.86",
+        "Lon": "-61.92"
       }
     },
     {
-      "properties": {
-        "Date": "Tue Aug 20 18:51:11 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-61.20",
-        "Lat": "45.54"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -61.197359999999996,
           45.53686
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Tue Aug 20 18:51:11 2013",
+        "Color": "#FF7800",
+        "Lat": "45.54",
+        "Lon": "-61.20"
       }
     },
     {
-      "properties": {
-        "Date": "Wed Aug 21 19:43:33 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-61.54",
-        "Lat": "45.11"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -61.539730000000006,
           45.10512
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Wed Aug 21 19:43:33 2013",
+        "Color": "#FF7800",
+        "Lat": "45.11",
+        "Lon": "-61.54"
       }
     },
     {
-      "properties": {
-        "Date": "Thu Aug 22 21:52:27 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-61.73",
-        "Lat": "45.10"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -61.72665,
           45.09512
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Thu Aug 22 21:52:27 2013",
+        "Color": "#FF7800",
+        "Lat": "45.10",
+        "Lon": "-61.73"
       }
     },
     {
-      "properties": {
-        "Date": "Sat Aug 24 21:15:42 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-62.91",
-        "Lat": "44.62"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -62.90988,
           44.61979
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Sat Aug 24 21:15:42 2013",
+        "Color": "#FF7800",
+        "Lat": "44.62",
+        "Lon": "-62.91"
       }
     },
     {
-      "properties": {
-        "Date": "Sun Aug 25 17:22:10 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-64.31",
-        "Lat": "44.37"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -64.30859,
           44.37246
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Sun Aug 25 17:22:10 2013",
+        "Color": "#FF7800",
+        "Lat": "44.37",
+        "Lon": "-64.31"
       }
     },
     {
-      "properties": {
-        "Date": "Tue Aug 27 18:05:41 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-64.23",
-        "Lat": "44.30"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -64.23196,
           44.29542
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Tue Aug 27 18:05:41 2013",
+        "Color": "#FF7800",
+        "Lat": "44.30",
+        "Lon": "-64.23"
       }
     },
     {
-      "properties": {
-        "Date": "Wed Aug 28 20:21:59 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-65.03",
-        "Lat": "43.61"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -65.02745999999999,
           43.610440000000004
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Wed Aug 28 20:21:59 2013",
+        "Color": "#FF7800",
+        "Lat": "43.61",
+        "Lon": "-65.03"
       }
     },
     {
-      "properties": {
-        "Date": "Thu Aug 29 15:25:05 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-65.63",
-        "Lat": "43.44"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -65.63495,
           43.443290000000005
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Thu Aug 29 15:25:05 2013",
+        "Color": "#FF7800",
+        "Lat": "43.44",
+        "Lon": "-65.63"
       }
     },
     {
-      "properties": {
-        "Date": "Mon Sep  2 21:59:18 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-67.08",
-        "Lat": "43.85"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -67.07901,
           43.851690000000005
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Mon Sep  2 21:59:18 2013",
+        "Color": "#FF7800",
+        "Lat": "43.85",
+        "Lon": "-67.08"
       }
     },
     {
-      "properties": {
-        "Date": "Tue Sep  3 12:47:49 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-68.35",
-        "Lat": "44.24"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -68.3519,
           44.2422
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Tue Sep  3 12:47:49 2013",
+        "Color": "#FF7800",
+        "Lat": "44.24",
+        "Lon": "-68.35"
       }
     },
     {
-      "properties": {
-        "Date": "Wed Sep  4 22:20:10 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-69.00",
-        "Lat": "44.43"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -69.00372,
           44.42915
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Wed Sep  4 22:20:10 2013",
+        "Color": "#FF7800",
+        "Lat": "44.43",
+        "Lon": "-69.00"
       }
     },
     {
-      "properties": {
-        "Date": "Thu Sep  5 10:44:20 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-69.45",
-        "Lat": "45.19"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -69.45319,
           45.18864
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Thu Sep  5 10:44:20 2013",
+        "Color": "#FF7800",
+        "Lat": "45.19",
+        "Lon": "-69.45"
       }
     },
     {
-      "properties": {
-        "Date": "Thu Sep  5 20:51:39 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-68.95",
-        "Lat": "44.34"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -68.95004,
           44.33778
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Thu Sep  5 20:51:39 2013",
+        "Color": "#FF7800",
+        "Lat": "44.34",
+        "Lon": "-68.95"
       }
     },
     {
-      "properties": {
-        "Date": "Fri Sep  6 17:21:10 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-69.21",
-        "Lat": "43.92"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -69.21236999999999,
           43.92367
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Fri Sep  6 17:21:10 2013",
+        "Color": "#FF7800",
+        "Lat": "43.92",
+        "Lon": "-69.21"
       }
     },
     {
-      "properties": {
-        "Date": "Sat Sep  7 22:29:23 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-69.26",
-        "Lat": "43.93"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -69.25958,
           43.92583
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Sat Sep  7 22:29:23 2013",
+        "Color": "#FF7800",
+        "Lat": "43.93",
+        "Lon": "-69.26"
       }
     },
     {
-      "properties": {
-        "Date": "Sun Sep  8 21:04:26 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-70.20",
-        "Lat": "43.58"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -70.20395,
           43.57873
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Sun Sep  8 21:04:26 2013",
+        "Color": "#FF7800",
+        "Lat": "43.58",
+        "Lon": "-70.20"
       }
     },
     {
-      "properties": {
-        "Date": "Mon Sep  9 17:48:31 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-70.74",
-        "Lat": "43.01"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -70.74169,
           43.00632
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Mon Sep  9 17:48:31 2013",
+        "Color": "#FF7800",
+        "Lat": "43.01",
+        "Lon": "-70.74"
       }
     },
     {
-      "properties": {
-        "Date": "Tue Sep 10 22:26:10 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-70.66",
-        "Lat": "42.61"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -70.65573,
           42.61068
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Tue Sep 10 22:26:10 2013",
+        "Color": "#FF7800",
+        "Lat": "42.61",
+        "Lon": "-70.66"
       }
     },
     {
-      "properties": {
-        "Date": "Tue Oct  1 18:01:48 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-70.66",
-        "Lat": "42.00"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -70.65791999999999,
           41.996159999999996
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Tue Oct  1 18:01:48 2013",
+        "Color": "#FF7800",
+        "Lat": "42.00",
+        "Lon": "-70.66"
       }
     },
     {
-      "properties": {
-        "Date": "Wed Oct  2 16:25:40 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-70.82",
-        "Lat": "41.65"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -70.81656,
           41.65209
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Wed Oct  2 16:25:40 2013",
+        "Color": "#FF7800",
+        "Lat": "41.65",
+        "Lon": "-70.82"
       }
     },
     {
-      "properties": {
-        "Date": "Thu Oct  3 17:47:27 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-71.32",
-        "Lat": "41.50"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -71.32474,
           41.49713
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Thu Oct  3 17:47:27 2013",
+        "Color": "#FF7800",
+        "Lat": "41.50",
+        "Lon": "-71.32"
       }
     },
     {
-      "properties": {
-        "Date": "Sat Oct  5 20:17:11 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-71.38",
-        "Lat": "41.76"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -71.38376,
           41.7552
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Sat Oct  5 20:17:11 2013",
+        "Color": "#FF7800",
+        "Lat": "41.76",
+        "Lon": "-71.38"
       }
     },
     {
-      "properties": {
-        "Date": "Wed Oct  9 00:13:11 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-72.40",
-        "Lat": "41.21"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -72.40143,
           41.21265
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Wed Oct  9 00:13:11 2013",
+        "Color": "#FF7800",
+        "Lat": "41.21",
+        "Lon": "-72.40"
       }
     },
     {
-      "properties": {
-        "Date": "Wed Oct  9 17:12:40 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-73.54",
-        "Lat": "41.02"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -73.53579,
           41.01985
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Wed Oct  9 17:12:40 2013",
+        "Color": "#FF7800",
+        "Lat": "41.02",
+        "Lon": "-73.54"
       }
     },
     {
-      "properties": {
-        "Date": "Thu Oct 10 20:40:02 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-73.77",
-        "Lat": "40.80"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -73.76669,
           40.804159999999996
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Thu Oct 10 20:40:02 2013",
+        "Color": "#FF7800",
+        "Lat": "40.80",
+        "Lon": "-73.77"
       }
     },
     {
-      "properties": {
-        "Date": "Fri Oct 11 18:32:00 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-74.02",
-        "Lat": "40.42"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -74.02289,
           40.41819
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Fri Oct 11 18:32:00 2013",
+        "Color": "#FF7800",
+        "Lat": "40.42",
+        "Lon": "-74.02"
       }
     },
     {
-      "properties": {
-        "Date": "Sun Oct 13 08:15:11 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-74.89",
-        "Lat": "38.95"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -74.88766,
           38.9499
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Sun Oct 13 08:15:11 2013",
+        "Color": "#FF7800",
+        "Lat": "38.95",
+        "Lon": "-74.89"
       }
     },
     {
-      "properties": {
-        "Date": "Wed Oct 16 00:39:41 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-74.88",
-        "Lat": "37.34"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -74.87613,
           37.337920000000004
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Wed Oct 16 00:39:41 2013",
+        "Color": "#FF7800",
+        "Lat": "37.34",
+        "Lon": "-74.88"
       }
     },
     {
-      "properties": {
-        "Date": "Fri Oct 18 07:01:26 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-76.12",
-        "Lat": "34.64"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -76.12326,
           34.63947
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Fri Oct 18 07:01:26 2013",
+        "Color": "#FF7800",
+        "Lat": "34.64",
+        "Lon": "-76.12"
       }
     },
     {
-      "properties": {
-        "Date": "Fri Oct 18 21:03:12 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-76.71",
-        "Lat": "34.72"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -76.71344,
           34.719190000000005
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Fri Oct 18 21:03:12 2013",
+        "Color": "#FF7800",
+        "Lat": "34.72",
+        "Lon": "-76.71"
       }
     },
     {
-      "properties": {
-        "Date": "Mon Oct 21 17:23:41 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-77.36",
-        "Lat": "34.55"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -77.36063,
           34.54503
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Mon Oct 21 17:23:41 2013",
+        "Color": "#FF7800",
+        "Lat": "34.55",
+        "Lon": "-77.36"
       }
     },
     {
-      "properties": {
-        "Date": "Sun Nov 10 20:04:30 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-77.80",
-        "Lat": "34.20"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -77.80315999999999,
           34.203559999999996
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Sun Nov 10 20:04:30 2013",
+        "Color": "#FF7800",
+        "Lat": "34.20",
+        "Lon": "-77.80"
       }
     },
     {
-      "properties": {
-        "Date": "Thu Nov 14 19:18:11 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-77.93",
-        "Lat": "33.64"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -77.93008,
           33.64127
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Thu Nov 14 19:18:11 2013",
+        "Color": "#FF7800",
+        "Lat": "33.64",
+        "Lon": "-77.93"
       }
     },
     {
-      "properties": {
-        "Date": "Fri Nov 15 19:07:11 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-79.03",
-        "Lat": "33.54"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -79.03323,
           33.535059999999994
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Fri Nov 15 19:07:11 2013",
+        "Color": "#FF7800",
+        "Lat": "33.54",
+        "Lon": "-79.03"
       }
     },
     {
-      "properties": {
-        "Date": "Sun Nov 17 16:35:10 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-79.29",
-        "Lat": "33.37"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -79.28619,
           33.36672
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Sun Nov 17 16:35:10 2013",
+        "Color": "#FF7800",
+        "Lat": "33.37",
+        "Lon": "-79.29"
       }
     },
     {
-      "properties": {
-        "Date": "Thu Nov 21 20:58:28 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-79.28",
-        "Lat": "32.97"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -79.27905,
           32.97175
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Thu Nov 21 20:58:28 2013",
+        "Color": "#FF7800",
+        "Lat": "32.97",
+        "Lon": "-79.28"
       }
     },
     {
-      "properties": {
-        "Date": "Fri Nov 22 12:56:33 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-79.95",
-        "Lat": "32.77"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -79.95139,
           32.7747
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Fri Nov 22 12:56:33 2013",
+        "Color": "#FF7800",
+        "Lat": "32.77",
+        "Lon": "-79.95"
       }
     },
     {
-      "properties": {
-        "Date": "Thu Nov 28 08:03:35 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-79.92",
-        "Lat": "32.78"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -79.92371,
           32.77988
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Thu Nov 28 08:03:35 2013",
+        "Color": "#FF7800",
+        "Lat": "32.78",
+        "Lon": "-79.92"
       }
     },
     {
-      "properties": {
-        "Date": "Thu Nov 28 23:19:05 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-80.04",
-        "Lat": "32.50"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -80.04049,
           32.49585
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Thu Nov 28 23:19:05 2013",
+        "Color": "#FF7800",
+        "Lat": "32.50",
+        "Lon": "-80.04"
       }
     },
     {
-      "properties": {
-        "Date": "Fri Nov 29 19:30:41 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-81.05",
-        "Lat": "32.03"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -81.04736,
           32.025240000000004
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Fri Nov 29 19:30:41 2013",
+        "Color": "#FF7800",
+        "Lat": "32.03",
+        "Lon": "-81.05"
       }
     },
     {
-      "properties": {
-        "Date": "Mon Dec  2 00:30:18 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-81.17",
-        "Lat": "31.12"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -81.17151,
           31.12152
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Mon Dec  2 00:30:18 2013",
+        "Color": "#FF7800",
+        "Lat": "31.12",
+        "Lon": "-81.17"
       }
     },
     {
-      "properties": {
-        "Date": "Mon Dec  2 10:43:11 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-81.47",
-        "Lat": "30.67"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -81.46924,
           30.671059999999997
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Mon Dec  2 10:43:11 2013",
+        "Color": "#FF7800",
+        "Lat": "30.67",
+        "Lon": "-81.47"
       }
     },
     {
-      "properties": {
-        "Date": "Wed Dec 18 21:21:33 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-81.64",
-        "Lat": "30.32"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -81.64154,
           30.319509999999998
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Wed Dec 18 21:21:33 2013",
+        "Color": "#FF7800",
+        "Lat": "30.32",
+        "Lon": "-81.64"
       }
     },
     {
-      "properties": {
-        "Date": "Thu Dec 19 12:18:11 2013",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-81.65",
-        "Lat": "29.98"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -81.64828,
           29.98475
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Thu Dec 19 12:18:11 2013",
+        "Color": "#FF7800",
+        "Lat": "29.98",
+        "Lon": "-81.65"
       }
     },
     {
-      "properties": {
-        "Date": "Sun Mar 15 17:16:00 2015",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-81.47",
-        "Lat": "30.67"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -81.46956999999999,
           30.6699
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Sun Mar 15 17:16:00 2015",
+        "Color": "#FF7800",
+        "Lat": "30.67",
+        "Lon": "-81.47"
       }
     },
     {
-      "properties": {
-        "Date": "Sun Mar 15 22:23:18 2015",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-81.47",
-        "Lat": "30.67"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -81.46933,
           30.67
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Sun Mar 15 22:23:18 2015",
+        "Color": "#FF7800",
+        "Lat": "30.67",
+        "Lon": "-81.47"
       }
     },
     {
-      "properties": {
-        "Date": "Wed May 13 11:08:41 2015",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-81.65",
-        "Lat": "29.98"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -81.64928,
           29.98296
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Wed May 13 11:08:41 2015",
+        "Color": "#FF7800",
+        "Lat": "29.98",
+        "Lon": "-81.65"
       }
     },
     {
-      "properties": {
-        "Date": "Sun May 17 17:40:42 2015",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-81.66",
-        "Lat": "30.32"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -81.66173,
           30.3243
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Sun May 17 17:40:42 2015",
+        "Color": "#FF7800",
+        "Lat": "30.32",
+        "Lon": "-81.66"
       }
     },
     {
-      "properties": {
-        "Date": "Tue May 19 20:44:01 2015",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-81.43",
-        "Lat": "30.40"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -81.4295,
           30.39685
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Tue May 19 20:44:01 2015",
+        "Color": "#FF7800",
+        "Lat": "30.40",
+        "Lon": "-81.43"
       }
     },
     {
-      "properties": {
-        "Date": "Thu May 21 14:01:05 2015",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-80.84",
-        "Lat": "32.02"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -80.83678,
           32.0165
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Thu May 21 14:01:05 2015",
+        "Color": "#FF7800",
+        "Lat": "32.02",
+        "Lon": "-80.84"
       }
     },
     {
-      "properties": {
-        "Date": "Fri May 22 14:03:41 2015",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-80.67",
-        "Lat": "32.43"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -80.6748,
           32.42975
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Fri May 22 14:03:41 2015",
+        "Color": "#FF7800",
+        "Lat": "32.43",
+        "Lon": "-80.67"
       }
     },
     {
-      "properties": {
-        "Date": "Tue May 26 07:55:05 2015",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-80.68",
-        "Lat": "32.43"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -80.67697,
           32.42957
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Tue May 26 07:55:05 2015",
+        "Color": "#FF7800",
+        "Lat": "32.43",
+        "Lon": "-80.68"
       }
     },
     {
-      "properties": {
-        "Date": "Thu Jun 11 13:43:22 2015",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-79.57",
-        "Lat": "32.76"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -79.56841999999999,
           32.756159999999994
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Thu Jun 11 13:43:22 2015",
+        "Color": "#FF7800",
+        "Lat": "32.76",
+        "Lon": "-79.57"
       }
     },
     {
-      "properties": {
-        "Date": "Sun Jun 14 19:27:19 2015",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-76.66",
-        "Lat": "34.72"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -76.66405999999999,
           34.71548
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Sun Jun 14 19:27:19 2015",
+        "Color": "#FF7800",
+        "Lat": "34.72",
+        "Lon": "-76.66"
       }
     },
     {
-      "properties": {
-        "Date": "Sun Jun 14 20:15:14 2015",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-76.66",
-        "Lat": "34.72"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -76.66412,
           34.71539
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Sun Jun 14 20:15:14 2015",
+        "Color": "#FF7800",
+        "Lat": "34.72",
+        "Lon": "-76.66"
       }
     },
     {
-      "properties": {
-        "Date": "Thu Jun 18 10:06:39 2015",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-75.52",
-        "Lat": "35.07"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -75.52216,
           35.07093
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Thu Jun 18 10:06:39 2015",
+        "Color": "#FF7800",
+        "Lat": "35.07",
+        "Lon": "-75.52"
       }
     },
     {
-      "properties": {
-        "Date": "Thu Jun 18 11:43:35 2015",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-75.40",
-        "Lat": "35.16"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -75.39798,
           35.163790000000006
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Thu Jun 18 11:43:35 2015",
+        "Color": "#FF7800",
+        "Lat": "35.16",
+        "Lon": "-75.40"
       }
     },
     {
-      "properties": {
-        "Date": "Fri Jun 19 21:03:40 2015",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-75.97",
-        "Lat": "36.83"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -75.97269,
           36.8269
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Fri Jun 19 21:03:40 2015",
+        "Color": "#FF7800",
+        "Lat": "36.83",
+        "Lon": "-75.97"
       }
     },
     {
-      "properties": {
-        "Date": "Sat Jun 20 17:08:06 2015",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-76.48",
-        "Lat": "37.26"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -76.47882,
           37.25597
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Sat Jun 20 17:08:06 2015",
+        "Color": "#FF7800",
+        "Lat": "37.26",
+        "Lon": "-76.48"
       }
     },
     {
-      "properties": {
-        "Date": "Mon Jul  6 19:58:39 2015",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-76.37",
-        "Lat": "37.14"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -76.37021,
           37.14377
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Mon Jul  6 19:58:39 2015",
+        "Color": "#FF7800",
+        "Lat": "37.14",
+        "Lon": "-76.37"
       }
     },
     {
-      "properties": {
-        "Date": "Thu Jul  9 22:16:10 2015",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-76.48",
-        "Lat": "37.26"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -76.47824,
           37.2563
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Thu Jul  9 22:16:10 2015",
+        "Color": "#FF7800",
+        "Lat": "37.26",
+        "Lon": "-76.48"
       }
     },
     {
-      "properties": {
-        "Date": "Tue Jul 14 18:47:58 2015",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-76.34",
-        "Lat": "37.55"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -76.33556999999999,
           37.54515
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Tue Jul 14 18:47:58 2015",
+        "Color": "#FF7800",
+        "Lat": "37.55",
+        "Lon": "-76.34"
       }
     },
     {
-      "properties": {
-        "Date": "Fri Jul 17 17:28:03 2015",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-76.49",
-        "Lat": "37.69"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -76.49243,
           37.69166
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Fri Jul 17 17:28:03 2015",
+        "Color": "#FF7800",
+        "Lat": "37.69",
+        "Lon": "-76.49"
       }
     },
     {
-      "properties": {
-        "Date": "Wed Jul 22 15:49:52 2015",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-76.57",
-        "Lat": "37.64"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -76.56918,
           37.6369
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Wed Jul 22 15:49:52 2015",
+        "Color": "#FF7800",
+        "Lat": "37.64",
+        "Lon": "-76.57"
       }
     },
     {
-      "properties": {
-        "Date": "Wed Jul 29 16:41:39 2015",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-76.35",
-        "Lat": "37.70"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -76.34921,
           37.69921
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Wed Jul 29 16:41:39 2015",
+        "Color": "#FF7800",
+        "Lat": "37.70",
+        "Lon": "-76.35"
       }
     },
     {
-      "properties": {
-        "Date": "Thu Jul 30 14:04:34 2015",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-76.27",
-        "Lat": "37.84"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -76.27161,
           37.839890000000004
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Thu Jul 30 14:04:34 2015",
+        "Color": "#FF7800",
+        "Lat": "37.84",
+        "Lon": "-76.27"
       }
     },
     {
-      "properties": {
-        "Date": "Fri Jul 31 18:50:00 2015",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-76.27",
-        "Lat": "37.84"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -76.27109,
           37.839690000000004
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Fri Jul 31 18:50:00 2015",
+        "Color": "#FF7800",
+        "Lat": "37.84",
+        "Lon": "-76.27"
       }
     },
     {
-      "properties": {
-        "Date": "Sun Aug  2 17:53:19 2015",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-76.35",
-        "Lat": "37.70"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -76.34909,
           37.69874
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Sun Aug  2 17:53:19 2015",
+        "Color": "#FF7800",
+        "Lat": "37.70",
+        "Lon": "-76.35"
       }
     },
     {
-      "properties": {
-        "Date": "Thu Aug 13 19:58:40 2015",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-75.75",
-        "Lat": "37.71"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -75.75445,
           37.7138
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Thu Aug 13 19:58:40 2015",
+        "Color": "#FF7800",
+        "Lat": "37.71",
+        "Lon": "-75.75"
       }
     },
     {
-      "properties": {
-        "Date": "Thu Aug 20 17:35:41 2015",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-75.86",
-        "Lat": "37.98"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -75.86075,
           37.976490000000005
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Thu Aug 20 17:35:41 2015",
+        "Color": "#FF7800",
+        "Lat": "37.98",
+        "Lon": "-75.86"
       }
     },
     {
-      "properties": {
-        "Date": "Sun Aug 23 22:10:40 2015",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-76.30",
-        "Lat": "37.23"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -76.29871,
           37.23437
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Sun Aug 23 22:10:40 2015",
+        "Color": "#FF7800",
+        "Lat": "37.23",
+        "Lon": "-76.30"
       }
     },
     {
-      "properties": {
-        "Date": "Wed Sep  9 16:31:33 2015",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-76.34",
-        "Lat": "37.41"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -76.33926,
           37.41483
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Wed Sep  9 16:31:33 2015",
+        "Color": "#FF7800",
+        "Lat": "37.41",
+        "Lon": "-76.34"
       }
     },
     {
-      "properties": {
-        "Date": "Fri Sep 11 17:30:26 2015",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-76.30",
-        "Lat": "37.23"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -76.30419,
           37.232929999999996
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Fri Sep 11 17:30:26 2015",
+        "Color": "#FF7800",
+        "Lat": "37.23",
+        "Lon": "-76.30"
       }
     },
     {
-      "properties": {
-        "Date": "Sat Sep 12 10:03:04 2015",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-76.48",
-        "Lat": "37.26"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -76.47875,
           37.25591
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Sat Sep 12 10:03:04 2015",
+        "Color": "#FF7800",
+        "Lat": "37.26",
+        "Lon": "-76.48"
       }
     },
     {
-      "properties": {
-        "Date": "Wed Oct  7 16:32:06 2015",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-75.44",
-        "Lat": "35.09"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -75.44365,
           35.09043
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Wed Oct  7 16:32:06 2015",
+        "Color": "#FF7800",
+        "Lat": "35.09",
+        "Lon": "-75.44"
       }
     },
     {
-      "properties": {
-        "Date": "Fri Oct  9 03:30:10 2015",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-77.64",
-        "Lat": "34.20"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -77.63727,
           34.19986
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Fri Oct  9 03:30:10 2015",
+        "Color": "#FF7800",
+        "Lat": "34.20",
+        "Lon": "-77.64"
       }
     },
     {
-      "properties": {
-        "Date": "Sun Oct 11 20:01:59 2015",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-78.12",
-        "Lat": "33.55"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -78.12262,
           33.55088
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Sun Oct 11 20:01:59 2015",
+        "Color": "#FF7800",
+        "Lat": "33.55",
+        "Lon": "-78.12"
       }
     },
     {
-      "properties": {
-        "Date": "Mon Oct 12 19:12:29 2015",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-79.48",
-        "Lat": "32.84"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -79.47659,
           32.84417
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Mon Oct 12 19:12:29 2015",
+        "Color": "#FF7800",
+        "Lat": "32.84",
+        "Lon": "-79.48"
       }
     },
     {
-      "properties": {
-        "Date": "Wed Oct 14 20:20:59 2015",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-80.24",
-        "Lat": "32.41"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -80.24002,
           32.41043
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Wed Oct 14 20:20:59 2015",
+        "Color": "#FF7800",
+        "Lat": "32.41",
+        "Lon": "-80.24"
       }
     },
     {
-      "properties": {
-        "Date": "Thu Oct 22 19:14:35 2015",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-80.67",
-        "Lat": "31.44"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -80.66824,
           31.439890000000002
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Thu Oct 22 19:14:35 2015",
+        "Color": "#FF7800",
+        "Lat": "31.44",
+        "Lon": "-80.67"
       }
     },
     {
-      "properties": {
-        "Date": "Fri Oct 23 17:42:36 2015",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-81.47",
-        "Lat": "30.67"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -81.46899,
           30.671609999999998
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Fri Oct 23 17:42:36 2015",
+        "Color": "#FF7800",
+        "Lat": "30.67",
+        "Lon": "-81.47"
       }
     },
     {
-      "properties": {
-        "Date": "Sat Oct 24 20:04:52 2015",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-81.66",
-        "Lat": "30.32"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -81.66193,
           30.32433
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Sat Oct 24 20:04:52 2015",
+        "Color": "#FF7800",
+        "Lat": "30.32",
+        "Lon": "-81.66"
       }
     },
     {
-      "properties": {
-        "Date": "Sun Oct 25 20:46:22 2015",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-81.65",
-        "Lat": "29.98"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -81.64865,
           29.983909999999998
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Sun Oct 25 20:46:22 2015",
+        "Color": "#FF7800",
+        "Lat": "29.98",
+        "Lon": "-81.65"
       }
     },
     {
-      "properties": {
-        "Date": "Tue Nov 29 08:59:42 2016",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-94.20",
-        "Lat": "45.57"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -94.19683,
           45.574709999999996
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Tue Nov 29 08:59:42 2016",
+        "Color": "#FF7800",
+        "Lat": "45.57",
+        "Lon": "-94.20"
       }
     },
     {
-      "properties": {
-        "Date": "Tue Nov 29 09:53:32 2016",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-94.20",
-        "Lat": "45.57"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -94.19696,
           45.57475
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Tue Nov 29 09:53:32 2016",
+        "Color": "#FF7800",
+        "Lat": "45.57",
+        "Lon": "-94.20"
       }
     },
     {
-      "properties": {
-        "Date": "Tue Nov 29 10:23:04 2016",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-94.20",
-        "Lat": "45.57"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -94.19717,
           45.57465
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Tue Nov 29 10:23:04 2016",
+        "Color": "#FF7800",
+        "Lat": "45.57",
+        "Lon": "-94.20"
       }
     },
     {
-      "properties": {
-        "Date": "Fri Dec  2 23:26:37 2016",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-87.91",
-        "Lat": "41.98"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -87.90985,
           41.97857
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Fri Dec  2 23:26:37 2016",
+        "Color": "#FF7800",
+        "Lat": "41.98",
+        "Lon": "-87.91"
       }
     },
     {
-      "properties": {
-        "Date": "Sat Dec  3 20:56:41 2016",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-78.35",
-        "Lat": "-0.19"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -78.34769,
           -0.18599000000000002
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Sat Dec  3 20:56:41 2016",
+        "Color": "#FF7800",
+        "Lat": "-0.19",
+        "Lon": "-78.35"
       }
     },
     {
-      "properties": {
-        "Date": "Sun Dec  4 15:20:41 2016",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-78.27",
-        "Lat": "0.28"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -78.26864,
           0.27791
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Sun Dec  4 15:20:41 2016",
+        "Color": "#FF7800",
+        "Lat": "0.28",
+        "Lon": "-78.27"
       }
     },
     {
-      "properties": {
-        "Date": "Wed Dec  7 12:31:33 2016",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-78.24",
-        "Lat": "0.24"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -78.24285,
           0.24376
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Wed Dec  7 12:31:33 2016",
+        "Color": "#FF7800",
+        "Lat": "0.24",
+        "Lon": "-78.24"
       }
     },
     {
-      "properties": {
-        "Date": "Thu Dec 15 12:18:50 2016",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-78.83",
-        "Lat": "1.29"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -78.83481,
           1.28662
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Thu Dec 15 12:18:50 2016",
+        "Color": "#FF7800",
+        "Lat": "1.29",
+        "Lon": "-78.83"
       }
     },
     {
-      "properties": {
-        "Date": "Fri Dec 16 10:32:20 2016",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-79.16",
-        "Lat": "1.10"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -79.15588000000001,
           1.10089
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Fri Dec 16 10:32:20 2016",
+        "Color": "#FF7800",
+        "Lat": "1.10",
+        "Lon": "-79.16"
       }
     },
     {
-      "properties": {
-        "Date": "Sun Dec 18 15:08:59 2016",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-80.02",
-        "Lat": "0.50"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -80.02158,
           0.50373
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Sun Dec 18 15:08:59 2016",
+        "Color": "#FF7800",
+        "Lat": "0.50",
+        "Lon": "-80.02"
       }
     },
     {
-      "properties": {
-        "Date": "Wed Dec 21 16:54:30 2016",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-80.46",
-        "Lat": "-0.46"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -80.45648,
           -0.46152
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Wed Dec 21 16:54:30 2016",
+        "Color": "#FF7800",
+        "Lat": "-0.46",
+        "Lon": "-80.46"
       }
     },
     {
-      "properties": {
-        "Date": "Thu Dec 22 10:15:52 2016",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-80.42",
-        "Lat": "-0.61"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -80.42294,
           -0.60643
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Thu Dec 22 10:15:52 2016",
+        "Color": "#FF7800",
+        "Lat": "-0.61",
+        "Lon": "-80.42"
       }
     },
     {
-      "properties": {
-        "Date": "Fri Dec 23 13:17:31 2016",
-        "Color": "#FF7800",
-        "Radius": 8,
-        "Lon": "-79.91",
-        "Lat": "-2.17"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -79.90839,
           -2.17426
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Fri Dec 23 13:17:31 2016",
+        "Color": "#FF7800",
+        "Lat": "-2.17",
+        "Lon": "-79.91"
       }
     },
     {
-      "properties": {
-        "Date": "Mon Dec 26 21:44:49 2016",
-        "Color": "#FF0000",
-        "Radius": 12,
-        "Lon": "-79.96",
-        "Lat": "-3.27"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           -79.96423,
           -3.27032
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 8,
+        "Date": "Mon Dec 26 21:44:49 2016",
+        "Color": "#FF7800",
+        "Lat": "-3.27",
+        "Lon": "-79.96"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6113,
+          -3.6922099999999998
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Radius": 12,
+        "Date": "Wed Dec 28 11:08:30 2016",
+        "Color": "#FF0000",
+        "Lat": "-3.69",
+        "Lon": "-79.61"
       }
     }
   ],
